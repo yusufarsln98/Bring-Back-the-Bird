@@ -12,3 +12,7 @@ Clone the repository by following link: `git clone https://github.com/yusufarsln
 3. Click  **Load unpacked**.
 4. Select the clonned folder.
 5. No more doge!
+
+### Video:
+
+https://github.com/yusufarsln98/fuck-dogecoin/blob/master/video.mp4
