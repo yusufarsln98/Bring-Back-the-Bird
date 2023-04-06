@@ -8,10 +8,10 @@ window.addEventListener(
 			var twitterIcon = document.querySelector('#\\30 -a > image');
 			if (twitterIcon) {
 				twitterIcon.setAttribute('xlink:href', IMAGE_BASE64);
-				console.log('Twitter Icon Normalizer: Icon changed!');
+				console.log('Fuck Dogecoin: Icon changed!');
 				clearInterval(interval);
 			} else {
-				console.log('Twitter Icon Normalizer: Original icon not found!');
+				console.log('Fuck Dogecoin: Original icon not found!');
 			}
 		}, 0);
 	},
