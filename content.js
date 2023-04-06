@@ -1,14 +1,21 @@
-const twitterIcon = document.querySelector('image');
+// check if page is loaded
+window.addEventListener(
+	'load',
+	function () {
+		setTimeout(() => {
+			var twitterIcon = document.querySelector('#\\30 -a > image');
+			if (twitterIcon) {
+				// set xlink:href attribute
+				twitterIcon.setAttribute(
+					'xlink:href',
+					'https://github.com/yusufarsln98/Twitter-Icon-Normalizer/blob/master/icon-128.png?raw=true'
+				);
+			} else {
+				console.error('twitter icon not found');
+			}
+		}, 2000);
+	},
+	false
+);
 
-if (twitterIcon) {
-	console.log('Twitter Icon Normalizer: Twitter Icon found');
-	// print the current twitter icon
-	console.log(twitterIcon);
-	// change xlink:href to the new twitter icon
-	twitterIcon.setAttribute(
-		'xlink:href',
-		'https://raw.githubusercontent.com/bradtraversy/twitter-icon-normalizer/master/twitter-icon.png'
-	);
-} else {
-	console.log('Twitter Icon Normalizer: Twitter Icon not found 31');
-}
+// 'https://github.com/yusufarsln98/Twitter-Icon-Normalizer/blob/master/icon-128.png?raw=true'
