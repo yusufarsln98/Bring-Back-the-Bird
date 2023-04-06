@@ -15,4 +15,4 @@ Clone the repository by following link: `git clone https://github.com/yusufarsln
 
 ### Video:
 
-https://github.com/yusufarsln98/fuck-dogecoin/blob/master/video.mp4
+https://www.youtube.com/watch?v=vHMzQvzCWJg
