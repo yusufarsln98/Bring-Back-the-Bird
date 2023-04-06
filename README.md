@@ -1,5 +1,5 @@
 
-## Twitter Icon Fixer (Chrome Extension)
+## Fuck Dogecoin (Chrome Extension)
 
 Clone the repository by following link: `git clone https://github.com/yusufarsln98/fuck-dogecoin.git`
 
