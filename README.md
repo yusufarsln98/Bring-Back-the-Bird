@@ -3,7 +3,7 @@
 
 Clone the repository by following link: `git clone https://github.com/yusufarsln98/fuck-dogecoin.git`
 
-(Or just download by clicking to `<code>` -> download zip) (unzip the file)
+(Or just download by clicking to `<>Code` -> download zip) (unzip the file)
  
 ### Then:
 
