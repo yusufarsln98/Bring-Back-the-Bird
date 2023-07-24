@@ -31,8 +31,6 @@ window.addEventListener(
 				xIcon.style.width = '30px';
 				xIcon.style.marginLeft = '10px';
 				clearInterval(interval);
-			} else {
-				console.log('Fuck Dogecoin: Original icon not found!');
 			}
 		}, 0);
 	},
