@@ -1,7 +1,7 @@
 
-## Fuck Dogecoin (Chrome Extension)
+## Fuck X (Chrome Extension)
 
-Clone the repository by following link: `git clone https://github.com/yusufarsln98/fuck-dogecoin.git`
+Clone the repository by following link: `git clone https://github.com/yusufarsln98/fuck-X.git`
 
 (Or just download by clicking to `<>Code` -> download zip) (unzip the file)
  
