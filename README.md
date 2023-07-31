@@ -1,7 +1,7 @@
 
 ## Fuck X (Chrome Extension)
 
-Clone the repository by following link: `git clone https://github.com/yusufarsln98/fuck-X.git`
+Clone the repository by following link: `git clone https://github.com/yusufarsln98/Bring-Back-the-Bird.git`
 
 (Or just download by clicking to `<>Code` -> download zip) (unzip the file)
  
