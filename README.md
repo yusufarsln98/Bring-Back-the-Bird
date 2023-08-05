@@ -1,5 +1,5 @@
 
-## Fuck X (Chrome Extension)
+## Bring Back the Bird (Chrome Extension)
 
 Clone the repository by following link: `git clone https://github.com/yusufarsln98/Bring-Back-the-Bird.git`
 
